@@ -22,4 +22,8 @@ class Checkout extends Model
     {
         return $this->belongsTo(Camps::class);
     }
+
+    public function User(): BelongsTo {
+        return $this->belongsTo(User::class);
+    }
 }
