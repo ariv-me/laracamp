@@ -10,7 +10,7 @@
                     YOUR FUTURE CAREER
                 </p>
                 <h2 class="primary-header">
-                    Start Invest Today
+                    Start Invest To day 
                 </h2>
             </div>
         </div>
